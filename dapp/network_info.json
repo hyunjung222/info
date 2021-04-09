@@ -134,6 +134,29 @@
                     "testnet": true
                 }
             ]
-        }    
+        },
+        {
+            "type": "tron",
+            "list": [
+                {
+                    "networkId": "tron-mainnet",
+                    "name": "mainnet",
+                    "description": "Tron",
+                    "coinType": "TRON",
+                    "chainId": 1,
+                    "iconPath" : "network_tron.png",
+                    "selected" : true
+                },
+                {
+                    "networkId": "tron-baobab",
+                    "name": "testnet",
+                    "description": "Tron-Testnet",
+                    "coinType": "TRX-TESTNET",
+                    "chainId": 2,
+                    "iconPath" : "network_tron.png",
+                    "testnet": true
+                }
+            ]
+        }
     ]
 }
