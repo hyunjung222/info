@@ -148,9 +148,9 @@
                     "selected" : true
                 },
                 {
-                    "networkId": "tron-baobab",
-                    "name": "testnet",
-                    "description": "Tron-Testnet",
+                    "networkId": "tron-shasta",
+                    "name": "shasta",
+                    "description": "Tron-Shasta",
                     "coinType": "TRX-TESTNET",
                     "chainId": 2,
                     "iconPath" : "network_tron.png",
