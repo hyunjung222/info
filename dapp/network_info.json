@@ -115,7 +115,7 @@
                     "description": "RSK-Testnet",
                     "coinType": "RSK-TESTNET",
                     "chainId": 31,
-                    "iconPath" : "network_rsk.png",,
+                    "iconPath" : "network_rsk.png",
                     "symbol": "RBTCt",
                     "testnet": true
                 },
