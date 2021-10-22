@@ -18,8 +18,7 @@
                     "description": "Klaytn",
                     "coinType": "KLAYTN",
                     "chainId": 8217,
-                    "iconPath" : "network_klaytn.png",
-                    "selected" : true
+                    "iconPath" : "network_klaytn.png"
                 },
                 {
                     "networkId": "ethereum-ropsten",
