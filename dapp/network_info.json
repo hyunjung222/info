@@ -14,7 +14,7 @@
                 },
                 {
                     "networkId": "klaytn-mainnet",
-                    "name": "cypress",
+                    "name": "klaytn",
                     "description": "Klaytn",
                     "coinType": "KLAYTN",
                     "chainId": 8217,
