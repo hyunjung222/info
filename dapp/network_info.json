@@ -13,6 +13,15 @@
                     "selected" : true
                 },
                 {
+                    "networkId": "klaytn-mainnet",
+                    "name": "cypress",
+                    "description": "Klaytn",
+                    "coinType": "KLAYTN",
+                    "chainId": 8217,
+                    "iconPath" : "network_klaytn.png",
+                    "selected" : true
+                },
+                {
                     "networkId": "ethereum-ropsten",
                     "name": "ropsten",
                     "description": "Ethereum-Ropsten",
