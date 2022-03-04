@@ -1,6 +1,18 @@
 {
     "list": [
         {
+            "name": "buy-ios",
+            "title": "Buy Cryptocurrency",
+            "description": "apple pay" ,
+            "link": "",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_buy.png",
+            "testnet": false,
+            "externalWindow": false,
+            "platform": "ios"
+        },
+        {
             "name": "buysell",
             "title": "Buy Cryptocurrency",
             "description": "A service that allows you to easily and safely purchase 100+ cryptocurrencies through a network of various partners." ,
