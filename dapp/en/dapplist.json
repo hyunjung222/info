@@ -4,7 +4,6 @@
             "name": "buy-ios",
             "title": "Buy Cryptocurrency",
             "description": "apple pay" ,
-            "dsecImg": "icon_buy.png" ,
             "link": "",
             "kind": [],
             "category": [],
