@@ -4,6 +4,7 @@
             "name": "buy-ios",
             "title": "암호화폐 구매",
             "description": "애플페이를 통한 암호화폐 구매 " ,
+            "dsecImg": "icon_buy.png" ,
             "link": "",
             "kind": [],
             "category": [],
@@ -14,8 +15,8 @@
         },
         {
             "name": "buysell",
-            "title": "Buy Cryptocurrency",
-            "description": "A service that allows you to easily and safely purchase 100+ cryptocurrencies through a network of various partners." ,
+            "title": "암호화폐 구매",
+            "description": "애플페이를 통한 암호화폐 구매 " ,
             "link": "",
             "kind": [],
             "category": [],
